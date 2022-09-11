@@ -118,7 +118,7 @@ Setja skal upp verkefni á Netlify með því að tengja GitHub repo.
 
 ## Sett fyrir
 
-Verkefni sett fyrir í fyrirlestri mánudaginn 12. ágúst 2021.
+Verkefni sett fyrir í fyrirlestri mánudaginn 12. september 2021.
 
 ## Skil
 
@@ -143,4 +143,4 @@ Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samta
 
 Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
 
-> Útgáfa 0.1
+> Útgáfa 0.2 (rétt skiladagsetning)
