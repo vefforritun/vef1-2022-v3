@@ -1,5 +1,7 @@
 # Vefforritun 1, 2022: Verkefni 3, CSS #1
 
+[Kynning í fyrirlestri](https://youtu.be/GCs3G7HkRmA).
+
 Verkefnið er framhald af [verkefni 2](https://github.com/vefforritun/vef1-2022-v2), nýtir það efni sem uppsett er í því, og fylgir þeirri verkefnalýsingu. Leyfilegt er að nota [sýnilausn að verkefni 2](https://github.com/vefforritun/vef1-2022-v2-synilausn) (sem gefin verður út miðvikudaginn 14. september).
 
 Nú skal bæta við einföldu útliti á efnið með CSS. Allt útlitið skal vera í `./styles.css` og **allar** HTML skrár skulu vísa í það.
