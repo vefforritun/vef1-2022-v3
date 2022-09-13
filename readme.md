@@ -99,12 +99,13 @@ Aðeins skal nota eftirfarandi eigindi, og ef tekið fram, viðeigandi gildi:
 * `font-family`
 * `font-size`
 * `font-weight`
-* `font-size`
 * `list-style: none;`
 * `margin` og nánari skilgreiningar
 * `padding` og nánari skilgreiningar
 * `width`, `min-width`, `max-width`, `min-height`
 * `text-align`
+
+Leyfilegt er að nota eigindi tengd flexbox en það sem gefið er ætti að vera nóg til að ná fram því útliti sem kemur fram í fyrirmynd.
 
 Ekki þarf að huga að skalanleika (síðan þarf ekki að líta vel út í undir `1000px` skjá).
 
@@ -145,4 +146,4 @@ Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samta
 
 Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
 
-> Útgáfa 0.2 (rétt skiladagsetning)
+> Útgáfa 0.3 (rétt skiladagsetning; nánar um flexbox eigindi)
