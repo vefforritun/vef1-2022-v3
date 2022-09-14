@@ -104,6 +104,7 @@ Aðeins skal nota eftirfarandi eigindi, og ef tekið fram, viðeigandi gildi:
 * `padding` og nánari skilgreiningar
 * `width`, `min-width`, `max-width`, `min-height`
 * `text-align`
+* `text-decoration`
 
 Leyfilegt er að nota eigindi tengd flexbox en það sem gefið er ætti að vera nóg til að ná fram því útliti sem kemur fram í fyrirmynd.
 
@@ -146,4 +147,4 @@ Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samta
 
 Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
 
-> Útgáfa 0.3 (rétt skiladagsetning; nánar um flexbox eigindi)
+> Útgáfa 0.4 (rétt skiladagsetning; nánar um flexbox eigindi; bæta við `text-decoration`)
